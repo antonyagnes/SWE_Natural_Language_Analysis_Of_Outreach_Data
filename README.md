@@ -5,4 +5,4 @@ The main objective of this project is to analyze the good practices in events co
 
 Note: This repository contains only the methods used to perforom the above mentioned functions.
 
-In prder to know more about my work, please read the attached report.
+To gain more information about this project, please read the attached report.
